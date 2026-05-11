@@ -1,1 +1,1 @@
-# Nx-clothes-lovable
+index.html
